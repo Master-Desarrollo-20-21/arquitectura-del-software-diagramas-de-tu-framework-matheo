@@ -10,4 +10,10 @@ Si estás haciendo el curso con las clases en vivo puedes juntarte con otros est
 
 En el repositorio puedes subir las imágenes generadas por la herramienta:
 
+## Diagrama de Clases y Paquetes
+
 ![Diagrama de Clases de @myndpm/dyn-forms](myndpm-dyn-forms.png)
+
+## Diagrama de Secuencia
+
+![Diagrama de Secuencia de @myndpm/dyn-forms](myndpm-dyn-forms-sequential.png)
